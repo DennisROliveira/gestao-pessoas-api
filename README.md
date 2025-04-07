@@ -41,7 +41,7 @@ A aplicação foi desenvolvida utilizando **Spring Boot** no back-end e **Angula
 
 2. Clone o repositório:
 ```bash
-git clone https://github.com/DennisROliveira/gestao-pessoas-api.git
+git clone -b master https://github.com/DennisROliveira/gestao-pessoas-api.git
 ```
 
 3. Navegue até o diretório do projeto:
